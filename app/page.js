@@ -280,7 +280,7 @@ export default function Home() {
 
             <ul className="pricing-features">
               {[
-                'Full 80+ page pregnancy guide (all 3 trimesters)',
+                'Full 25+ page pregnancy guide (all 3 trimesters)',
                 'Nutrition guide using Nigerian foods',
                 'Nigerian healthcare navigation chapter',
                 'Nigerian pregnancy myths — debunked with facts',
