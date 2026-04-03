@@ -92,7 +92,7 @@ export default function Home() {
 
       {/* SOCIAL PROOF STRIP */}
       <div className="proof-strip">
-        <div className="proof-item"><span className="proof-icon">📖</span> 80+ pages of real talk</div>
+        <div className="proof-item"><span className="proof-icon">📖</span> 28+ pages of real talk</div>
         <div className="proof-item"><span className="proof-icon">🇳🇬</span> Written for Nigerian women</div>
         <div className="proof-item"><span className="proof-icon">⭐</span> Covers all 3 trimesters</div>
         <div className="proof-item"><span className="proof-icon">📲</span> Download instantly</div>
@@ -280,7 +280,7 @@ export default function Home() {
 
             <ul className="pricing-features">
               {[
-                'Full 25+ page pregnancy guide (all 3 trimesters)',
+                'Full 28+ page pregnancy guide (all 3 trimesters)',
                 'Nutrition guide using Nigerian foods',
                 'Nigerian healthcare navigation chapter',
                 'Nigerian pregnancy myths — debunked with facts',
